@@ -1,0 +1,78 @@
+.Post {
+  background-color: #e5e5e5;
+  margin: auto;
+  .post-title {
+    font-family: "Roboto";
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 28px;
+    letter-spacing: -0.01em;
+    text-align: left;
+  }
+  .post-content {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 26px;
+    letter-spacing: 0em;
+    -webkit-font-smoothing: antialiased;
+    color: #333
+
+  }
+  h1 {
+    font-family: "Roboto";
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 53px;
+    letter-spacing: -0.02em;
+    text-align: center !important;
+  }
+  h2{
+    font-family: "Roboto";
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center !important;
+  }
+  img{
+    margin: 5px;
+  }
+
+  .date{
+    font-family: "Roboto";
+font-size: 12px;
+font-style: normal;
+font-weight: 900;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: left;
+
+  }
+
+  .author{
+    font-family: "Roboto";
+font-size: 12px;
+font-style: normal;
+font-weight: 900;
+line-height: 14px;
+letter-spacing: 0.07em;
+text-align: left;
+
+  }
+  .caption{
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+
+  }
+}

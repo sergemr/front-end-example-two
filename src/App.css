@@ -1,0 +1,31 @@
+body {
+  background-color: #e5e5e5;
+  font-family: "Roboto",sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+h1 {
+  font-family: "Roboto";
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 28px;
+  letter-spacing: -0.01em;
+  text-align: left;
+}
+p {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.footer{
+  width: 100%;
+  text-align: center;
+}
+.centered-item{
+  text-align: center;
+  margin: auto !important;
+}

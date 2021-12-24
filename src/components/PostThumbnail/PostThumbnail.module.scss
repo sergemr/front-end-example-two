@@ -1,0 +1,29 @@
+.PostThumbnail {
+   
+    margin: auto;
+    .img-top{
+        min-height: 205px;
+        text-align: left;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    }
+    .thumbnail-price-btn{
+        height: 23px;
+        width: 71px;
+        left: 0px;
+        top: 0px;
+        padding:8px; 
+        border-radius: 100px;
+        margin-top: 15px;
+        font-family: Roboto;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 14px;
+        letter-spacing: 0.08em;
+        text-align: center;
+        color:white
+
+    }
+}
